@@ -30,7 +30,7 @@ struct SendReadingsView: View {
         VStack(alignment: .trailing, spacing: 16) {
             VStack(alignment: .leading, spacing: 16) {
                 HStack(spacing: 32) {
-                    Text("Показання щотчіка")
+                    Text("Показання лічильника")
                         .font(.title)
                     
                     Button {
